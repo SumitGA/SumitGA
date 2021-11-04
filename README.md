@@ -61,7 +61,4 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 
-
-<br>
-![](https://visitor-badge.glitch.me/badge?page_id=SumitGA)
   
